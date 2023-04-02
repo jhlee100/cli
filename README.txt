@@ -1,4 +1,5 @@
 이 프로젝트는 C/C++ call graph를 node와 edge가 나타나있는 graph형태로 표현하기 위해 만들었습니다. 현재 goJS에서 제공하는 diagram을 사용합니다.
+실행결과 : mac, ubuntu linux에서 의도한 대로 동작함을 확인하였습니다.
 
 * 준비할 것
 shell command를 실행하기위해, 아래 툴의 실행 바이너리가 exec path에 있어야 한다.

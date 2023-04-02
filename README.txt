@@ -4,7 +4,8 @@
 shell command를 실행하기위해, 아래 툴의 실행 바이너리가 exec path에 있어야 한다.
 node.js  ; javascript interpreter
 cscope   ; cross-reference 
-ctag     ; function list
+Exuberant ctag     ; function list
+
 
 * 사용법
 
